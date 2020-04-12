@@ -1,7 +1,6 @@
 ---
-layout: archive
 title: "About"
-permalink: "/about/"
+permalink: /about/
 header:
  image: "/images/hkskyline.jpg"
 ---
