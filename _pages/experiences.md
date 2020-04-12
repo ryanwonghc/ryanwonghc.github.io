@@ -3,10 +3,10 @@ layout: archive
 permalink: /experiences/
 title: "Experiences"
 author_profile: true
-header:
-  image: "/images/bighouse.jpg"
 toc: true
 toc_label: "Experiences"
+header:
+  image: "/images/hkbeach.jpg"
 ---
 
 ### Adaptive Designs for Human Mobility Safety
