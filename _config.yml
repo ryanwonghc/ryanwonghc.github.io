@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan Wong"
+title                    : "Ryan Wong's Data Science Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ryan Wong"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Wong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a junior at the University of Michigan majoring in Industrial and Operations Engineering and minoring in Computer Science."
+  avatar           : "/images/me.jpg"
+  bio              : "Engineering Student at the University of Michigan"
   location         : "Ann Arbor, MI"
   email            :
   links:
