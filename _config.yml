@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Ryan Wong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "I am a junior studying Industrial and Operations Engineering at the University of Michigan. I am a proponent of data driven decision making and am passionate about using statistical and predictive analytics in order to extract meaning from data and improve the efficiency of complex processes."
   location         : "Ann Arbor, MI"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:rhcw@umich.edu
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -283,11 +283,10 @@ defaults:
       share: true
       related: true
 
-
-#pages
-- scope:
-    path: ""
-    type: pages
-  values:
-    layout: single
-    author_profile: true
+# pages
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
