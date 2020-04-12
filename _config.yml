@@ -283,6 +283,7 @@ defaults:
       share: true
       related: true
 
+
 #pages
 - scope:
     path: ""
