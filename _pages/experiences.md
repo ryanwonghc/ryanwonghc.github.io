@@ -10,7 +10,6 @@ last_modified_at: 2020-04-12T14:07:54-04:00
 toc: true
 toc_label: "Experiences"
 toc_sticky: true
-toc_icon: "cog"
 ---
 
 ## Adaptive Designs for Human Mobility Safety
