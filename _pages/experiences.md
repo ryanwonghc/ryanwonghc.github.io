@@ -1,10 +1,11 @@
 ---
-layout: archive
 permalink: /experiences/
 title: "Experiences"
 author_profile: true
+excerpt: "Internships and extra-curriculars"
 header:
   image: "/images/hkbeach.jpg"
+last_modified_at: 2020-04-12T14:07:54-04:00
 toc: true
 toc_label: "Experiences"
 toc_sticky: true
@@ -23,7 +24,7 @@ Ultimately, the regression model achieved an R squared value of 0.60, which my r
 
 I believe that this project has helped me develop a new mindset. Upon joining the research team, I felt under qualified and lost with no idea how or where to begin. However, I grew to love the sense of uncertainty that came with trying to solve a problem with no established solution and the feeling of accomplishment after grasping previously foreign concepts. Equally important to the idea of embracing uncertainty is the concept of adopting a growth mindset. In order to improve upon my problem-solving capabilities, I continuously looking for opportunities to challenge myself and learn.
 
-## Apex consulting
+## Apex Consulting
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/apex.jpg)
 
