@@ -10,7 +10,7 @@ header:
   image: "/images/hkbeach.jpg"
 ---
 
-### Adaptive Designs for Human Mobility Safety
+## Adaptive Designs for Human Mobility Safety
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/UMTRI.jpg)
 
@@ -22,7 +22,7 @@ Ultimately, the regression model achieved an R squared value of 0.60, which my r
 
 I believe that this project has helped me develop a new mindset. Upon joining the research team, I felt under qualified and lost with no idea how or where to begin. However, I grew to love the sense of uncertainty that came with trying to solve a problem with no established solution and the feeling of accomplishment after grasping previously foreign concepts. Equally important to the idea of embracing uncertainty is the concept of adopting a growth mindset. In order to improve upon my problem-solving capabilities, I continuously looking for opportunities to challenge myself and learn.
 
-### Apex consulting
+## Apex consulting
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/apex.jpg)
 
@@ -30,7 +30,7 @@ Apex Consulting is an on campus student run organization at the University of Mi
 
 My involvement with Apex Consulting has helped me develop a breadth of both soft and hard skills. I learnt how to approach and resolve complex problems and gained an ability to operate under uncertainty as clients may sometimes be unwilling to disclose too much information. I also developed strong communicative and collaborative skills by working in various teams with different team dynamics and interacting with different types of clients.
 
-### Techture Limited
+## Techture Limited
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/smartizenpark.jpg)
 
