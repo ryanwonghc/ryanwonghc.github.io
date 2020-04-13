@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-  image: "/images/hkskyline.jpg"
+  image: "/images/Design/hkskyline.jpg"
 last_modified_at: 2020-04-12T14:07:54-04:00
 toc: true
 toc_label: "About"
@@ -27,7 +27,7 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
 
 ## Resume
 
-[Ryan_Wong_04/11/2020](https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing)
+[Ryan_Wong_Resume](https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing)
 
 ## Fun Facts
 
