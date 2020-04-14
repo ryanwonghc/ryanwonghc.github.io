@@ -22,8 +22,9 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
 * Bachelor of Science in Engineering '22
 * Major: Industrial and Operations Engineering
 * Minors: Computer Science, International Minor for Engineers
-* Engineering Global Leadership Honors Program
-* Brother, Alpha Kappa Psi Professional Business Fraternity
+* Activities and Societies:
+  * Engineering Global Leadership Honors Program
+  * Alpha Kappa Psi Professional Business Fraternity
 
 ## Resume
 
@@ -31,5 +32,6 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
 
 ## Fun Facts
 
-* In my free time, I enjoy playing card games, fantasy sports, and staying physically active
+* In my free time, I enjoy playing strategy games, fantasy sports, and staying physically active
 * I love skiing and have skied in Japan, Korea, the United States, and Australia
+* I am a founding member of Support! International Foundation, a youth-led NGO created to provide educational services to underserved communities
