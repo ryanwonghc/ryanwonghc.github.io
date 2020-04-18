@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Site!"
+title: "Welcome to my Site!\n\n\n\n"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -17,6 +17,6 @@ header:
   caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
 excerpt: "\n\n\n\n\n\n"
 intro:
-  - excerpt: This is my personal site containing information about myself, my internship and extracurricular experiences, as well as projects I have completed. The website uses a Jekyll themed template designed by mmistakes.
+  - excerpt: Hi! This is my personal site containing information about myself, my internship and extracurricular experiences, as well as projects I have completed. The website uses a Jekyll themed template designed by mmistakes.
 ---
 {% include feature_row id="intro" type="center" %}
