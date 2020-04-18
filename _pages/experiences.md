@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /experiences/
-title: "Experiences"
+title: "Internships and Extracurriculars"
 author_profile: true
 excerpt: "Internships and extra-curriculars"
 header:

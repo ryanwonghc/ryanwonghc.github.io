@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Projects"
+title: "Project Experience"
 author_profile: true
 header:
   image: "/images/Design/niseko.jpg"
