@@ -15,10 +15,9 @@ header:
     - label: "Internships and Extracurriculars"
       url: "https://ryanwonghc.github.io/experiences/"
   caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
-excerpt: "Hi! This is my personal site containing information about myself, my internship and extracurricular experiences, as well as projects I have completed. \n\n
+excerpt: |+
 
-The website uses a Jekyll themed template designed by mmistakes."
-#intro:
-  #- excerpt: Hi! This is my personal site containing information about myself, my internship and extracurricular experiences, as well as projects I have completed. The website uses a Jekyll themed template designed by mmistakes.
+Hi! This is my personal site containing information about myself, my internship and extracurricular experiences, as well as projects I have completed.
+
+The website uses a Jekyll themed template designed by mmistakes.
 ---
- #{% include feature_row id="intro" type="center" %}
