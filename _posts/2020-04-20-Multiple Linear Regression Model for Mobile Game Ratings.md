@@ -1,7 +1,7 @@
 ---
 title: "Multiple Linear Regression Model for Mobile Game Ratings"
 date: 2020-04-20
-tags: [Multiple Linear Regression, Backward Elimination, R-Squared, Mean Absolute Error]
+tags: [Multiple Linear Regression, Backward Elimination]
 header:
   image: "/images/Posts/phone.jpg"
 excerpt: "Project aims to predict the app store rating of a mobile game using multiple linear regression, considering factors such as game size, genre, and price."
