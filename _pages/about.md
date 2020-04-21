@@ -21,10 +21,10 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
 
 * Bachelor of Science in Engineering '22
 * Major: Industrial and Operations Engineering
-* Minors: Computer Science, International Minor for Engineers
+* Minors: Computer Science, International Minor
 * Activities and Societies:
-  * Engineering Global Leadership Honors Program
-  * Alpha Kappa Psi Professional Business Fraternity
+  * [Engineering Global Leadership Honors Program](https://honors.engin.umich.edu/egl/)
+  * Alpha Kappa Psi Professional Business Fraternity - Phi Chapter
 
 ## Resume
 
