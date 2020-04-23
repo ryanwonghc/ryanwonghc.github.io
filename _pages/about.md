@@ -13,7 +13,7 @@ toc_sticky: true
 
 ## Introduction
 
-I am a sophomore majoring in Industrial and Operations Engineering and minoring in Computer Science at the University of Michigan. I am a proponent of data driven decision making and am passionate about using statistical and predictive analytics in order to extract meaning from data and improve the efficiency of complex processes. 
+I am a sophomore majoring in Industrial and Operations Engineering and minoring in Computer Science at the University of Michigan. I am a proponent of data driven decision making and am passionate about using statistical and predictive analytics in order to extract meaning from data and improve the efficiency of complex processes.
 
 I was born in Hong Kong and enjoy travelling to broaden my horizons and gain different perspectives by learning about different cultures and schools of thought. I am pursuing an international minor and plan on studying/working abroad sometime in the near future.
 
@@ -29,7 +29,7 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
 ## Resume
 
 [Ryan_Wong_Resume](https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing)
-<a href="https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing" class="btn btn--success" download>Download Resume</a>
+<a href="/Resume/resume.pdf" class="btn btn--success" download>Download Resume</a>
 
 ## Fun Facts
 
