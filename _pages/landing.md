@@ -9,9 +9,9 @@ header:
   overlay_image: /images/Design/tahoe.jpg
   actions:
     - img: "/images/Design/github.jpg"
-      url: "https://ryanwonghc.github.io/about/"
+      url: "https://github.com/ryanwonghc"
     - img: "/images/Design/linkedin.jpg"
-      url: "https://ryanwonghc.github.io/projects/"
+      url: "https://www.linkedin.com/in/ryan-wong-hc/"
   #caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
 excerpt: |
     Welcome to my site!
