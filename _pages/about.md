@@ -27,8 +27,6 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
   * Alpha Kappa Psi Professional Business Fraternity - Phi Chapter
 
 ## Resume
-
-[Ryan_Wong_Resume](https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing)
 <a href="/Resume/resume.pdf" class="btn btn--success" download>Download Resume</a>
 
 ## Fun Facts
