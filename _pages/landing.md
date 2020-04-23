@@ -1,5 +1,5 @@
 ---
-title: "          Hi, I'm Ryan"
+title: "Hi, I'm **Ryan**"
 layout: splash
 permalink: /
 date: 2020-04-20T11:48:41-04:00
@@ -8,17 +8,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/Design/tahoe.jpg
   actions:
-    - label: "About Me > "
+    - label: "About Me"
       url: "https://ryanwonghc.github.io/about/"
-    - label: "Project Experience > "
+    - label: "Projects"
       url: "https://ryanwonghc.github.io/projects/"
-    - label: "Internships and Extracurriculars > "
+    - label: "Experiences"
       url: "https://ryanwonghc.github.io/experiences/"
-  caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
+  #caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
 excerpt: |
-    Hi, I'm **Ryan**.
-    <br>
     Welcome to my site!
+    <br>
     <br>
     ---
 ---

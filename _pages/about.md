@@ -3,8 +3,8 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
-header:
-  image: "/images/Design/hkskyline.jpg"
+#header:
+  #image: "/images/Design/hkskyline.jpg"
 last_modified_at: 2020-04-12T14:07:54-04:00
 toc: true
 toc_label: "About"
