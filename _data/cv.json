@@ -37,13 +37,15 @@
         "EECS 281 - Data Structures and Algorithms",
         "MATH 214 - Linear Algebra"
       ],
-      "activities and societies": [
-        "EECS 203 - Discrete Mathematics",
-        "IOE 265 - Probability and Statistics for Engineers",
-        "EECS 484 - Database Management Systems",
-        "IOE 373 - Data Processing",
-        "EECS 281 - Data Structures and Algorithms",
-        "MATH 214 - Linear Algebra"
+      "activitiesAndSocieties":[
+         {
+           "name": "Engineering Global Leadership Honors Program",
+           "url": "https://honors.engin.umich.edu/egl/"
+         },
+         {
+           "name": "Alpha Kappa Psi Professional Business Fraternity - Phi Chapter",
+           "url": "https://akpsi-phi.com/"
+         }
       ]
     }
   ],
