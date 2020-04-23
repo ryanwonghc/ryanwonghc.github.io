@@ -1,5 +1,5 @@
 ---
-title: "Ryan Wong"
+title: ""
 layout: splash
 permalink: /
 date: 2020-04-20T11:48:41-04:00
