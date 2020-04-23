@@ -35,6 +35,7 @@
   "skills": [
     {
       "name": "Programming Languages",
+      "level": "Working Knowledge",
       "keywords": [
         "Python",
         "C++",
@@ -43,6 +44,7 @@
     },
     {
       "name": "Tools",
+      "level": "Proficient",
       "keywords": [
         "Microsoft Excel",
         "Microsoft Access",
