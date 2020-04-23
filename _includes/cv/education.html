@@ -31,19 +31,19 @@
           </ul>
         {% endif %}
         {% if e.activitiesAndSocieties %}
-          <h5 class="activitiesAndSocieties-title">Activities and Societies</h5>
-          <ul class="activitiesAndSocieties">
-            {% for activity in e.activitiesAndSocieties %}
-              <li>{{ activity }}</li>
-              <span class="name">
-                {% unless activity.url == '' or activity.url == nil %}
-                  <a href="{{ activity.url }}">{{ activity.name }}</a>
-                {% else %}
-                  {{ activity.name }}
-                {% endunless %}
-              </span>
-            {% endfor %}
-          </ul>
+          {% for activity in e.activitiesAndSocieties %}
+            <div class="item">
+              {% if activity.name %}
+                <span class="name">
+                  {% unless activity.url == '' or activity.url == nil %}
+                    <a href="{{ activity.url }}">{{ activity.name }}</a>
+                  {% else %}
+                    {{ activity.name }}
+                  {% endunless %}
+                </span>
+              {% endif %}
+            </div>
+          {% endfor %}
         {% endif %}
       {% endfor %}
     </div>
