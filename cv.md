@@ -2,7 +2,7 @@
 title: Curriculum Vitæ
 layout: cv
 actions:
-  - label: "Download as PDF"
+  - label: "Download Resume"
     icon: pdf
     url: "#pdf-asset"
 ---
