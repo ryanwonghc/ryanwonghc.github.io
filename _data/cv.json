@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ryan Wong",
     "label": "Sophomore at the University of Michigan",
-    "picture": "",
+    "picture": "/images/ryan.jpg",
     "email": "rhcw@umich.edu",
     "phone": "(734) 834-6656",
     "linkedin": "https://www.linkedin.com/in/ryan-wong-hc/",
@@ -63,5 +63,5 @@
       "language": "Chinese - Cantonese",
       "fluency": "Native speaker"
     }
-  ],
+  ]
 }
