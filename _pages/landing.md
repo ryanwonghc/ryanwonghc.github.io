@@ -17,7 +17,7 @@ header:
   caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
 excerpt: |
     Hi, I'm **Ryan**.
-    <br>____________
+    <br>____________------
     Welcome to my site!
     <br>
 ---
