@@ -25,6 +25,7 @@ excerpt: |
 ---
 
 {% if page.header.actions %}
+ <p>
  {% for action in page.header.actions %}
   <a href="{{ action.url }}">
    <img src="{{ action.img }}" alt="Github">
