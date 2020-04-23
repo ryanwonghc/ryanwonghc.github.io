@@ -31,24 +31,19 @@
       ]
     }
   ],
-  "skills": [
+
+  "languages": [
     {
-      "name": "Programming Languages",
-      "level": "Working Knowledge",
-      "keywords": [
-        "Python",
-        "C++",
-        "SQL"
-      ]
+      "language": "English",
+      "fluency": "Native speaker"
     },
     {
-      "name": "Tools",
-      "level": "Proficient",
-      "keywords": [
-        "Microsoft Excel",
-        "Microsoft Access",
-        "Tableau"
-      ]
+      "language": "Chinese - Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Chinese - Cantonese",
+      "fluency": "Native speaker"
     }
-  ]
+ ]
 }
