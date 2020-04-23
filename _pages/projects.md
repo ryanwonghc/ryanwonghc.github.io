@@ -3,8 +3,8 @@ layout: archive
 permalink: /projects/
 title: "Project Experience"
 author_profile: true
-header:
-  image: "/images/Design/niseko.jpg"
+#header:
+  #image: "/images/Design/niseko.jpg"
 
 ---
 

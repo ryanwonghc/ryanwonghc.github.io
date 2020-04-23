@@ -4,8 +4,8 @@ permalink: /experiences/
 title: "Internships and Extracurriculars"
 author_profile: true
 excerpt: "Internships and extra-curriculars"
-header:
-  image: "/images/Design/beach.jpg"
+#header:
+  #image: "/images/Design/beach.jpg"
 last_modified_at: 2020-04-12T14:07:54-04:00
 toc: true
 toc_label: "Experiences"

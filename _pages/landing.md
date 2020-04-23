@@ -8,16 +8,25 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/Design/tahoe.jpg
   actions:
-    - label: "About Me"
+    - img: "/images/Design/github.jpg"
       url: "https://ryanwonghc.github.io/about/"
-    - label: "Projects"
+    - img: "/images/Design/linkedin.jpg"
       url: "https://ryanwonghc.github.io/projects/"
-    - label: "Experiences"
-      url: "https://ryanwonghc.github.io/experiences/"
   #caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
 excerpt: |
     Welcome to my site!
-    <br>
-    <br>
     ---
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 ---
+{% if page.header.actions %}
+  {% for action in page.header.actions %}
+    <a href="{{ action.url }}">
+      <img src="{{ action.img }}" alt="Github">
+    </a>
+  {% endfor %}
+{% endif %}
