@@ -23,10 +23,11 @@ excerpt: |
     <br>
     <br>
 ---
+
 {% if page.header.actions %}
-  {% for action in page.header.actions %}
-    <a href="{{ action.url }}">
-      <img src="{{ action.img }}" alt="Github">
-    </a>
-  {% endfor %}
+ {% for action in page.header.actions %}
+  <a href="{{ action.url }}">
+   <img src="{{ action.img }}" alt="Github">
+  </a>
+ {% endfor %}
 {% endif %}
