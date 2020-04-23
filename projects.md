@@ -2,7 +2,7 @@
 title: Projects
 layout: collection
 permalink: /projects/
-collection: projects
+collection: recipes
 entries_layout: grid
 ---
 
