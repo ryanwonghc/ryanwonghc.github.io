@@ -13,25 +13,27 @@
     "countryCode": "US",
     "region": "MI"
   },
-  "education": [
+
+  "skills": [
     {
-      "institution": "University of Michigan",
-      "area": "Industrial and Operations Engineering",
-      "studyType": "Bachelor of Science",
-      "startDate": "Aug 2018",
-      "endDate": "May 2022",
-      "gpa": "3.7",
-      "courses": [
-        "EECS 203 - Discrete Mathematics",
-        "IOE 265 - Probability and Statistics for Engineers",
-        "EECS 484 - Database Management Systems",
-        "IOE 373 - Data Processing",
-        "EECS 281 - Data Structures and Algorithms",
-        "MATH 214 - Linear Algebra"
+      "name": "Programming Languages",
+      "level": "Working Knowledge",
+      "keywords": [
+        "Python",
+        "C++",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Proficient",
+      "keywords": [
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Tableau"
       ]
     }
   ],
-
   "languages": [
     {
       "language": "English",
