@@ -7,13 +7,31 @@
     "phone": "(734) 834-6656",
     "summary": "Summary.",
     "location": {
-    "address": "1109 Willard Street",
-    "postalCode": "48104",
-    "city": "Ann Arbor",
-    "countryCode": "US",
-    "region": "MI"
+      "address": "1109 Willard Street",
+      "postalCode": "48104",
+      "city": "Ann Arbor",
+      "countryCode": "US",
+      "region": "MI"
+    }
   },
-
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "area": "Industrial and Operations Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "Aug 2018",
+      "endDate": "May 2022",
+      "gpa": "3.7",
+      "courses": [
+        "EECS 203 - Discrete Mathematics",
+        "IOE 265 - Probability and Statistics for Engineers",
+        "EECS 484 - Database Management Systems",
+        "IOE 373 - Data Processing",
+        "EECS 281 - Data Structures and Algorithms",
+        "MATH 214 - Linear Algebra"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Programming Languages",
