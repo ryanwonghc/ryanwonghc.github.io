@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Site!"
+title: ""
 layout: splash
 permalink: /
 date: 2020-04-20T11:48:41-04:00
@@ -15,16 +15,9 @@ header:
     - label: "Internships and Extracurriculars > "
       url: "https://ryanwonghc.github.io/experiences/"
   caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ryanwonghc"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ryan-wong-hc/"
 excerpt: |
-    **Hi, I'm Ryan.**
-    <br>
+    Hi, I'm **Ryan**.
+    <br>____________
     Welcome to my site!
     <br>
 ---

@@ -29,6 +29,7 @@ I was born in Hong Kong and enjoy travelling to broaden my horizons and gain dif
 ## Resume
 
 [Ryan_Wong_Resume](https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing)
+<a href="https://drive.google.com/file/d/16xq9qhqCw8WQrdQfiwXmV3zs8zcD6CF5/view?usp=sharing" class="btn btn--success" download>Download Resume</a>
 
 ## Fun Facts
 
