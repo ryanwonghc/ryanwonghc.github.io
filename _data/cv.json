@@ -21,6 +21,15 @@
       }
     ]
   },
+  "additional": [
+    {
+      "fun facts": [
+        "In my free time, I enjoy playing strategy games, fantasy sports, and staying physically active",
+        "I love skiing and have skied in Japan, Korea, the United States, and Australia",
+        "I am a founding member of Support! International Foundation, a youth-led NGO created to provide educational services to underserved communities"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Michigan",
@@ -29,16 +38,6 @@
       "startDate": "Aug 2018",
       "endDate": "May 2022",
       "gpa": "3.7",
-      "activities and societies": [
-        {
-          "name": "Alpha Kappa Psi Professional Business Fraternity - Phi Chapter",
-          "url": ""
-        },
-        {
-          "name": "Engineering Global Leadership Honors Program"
-          "url": "https://honors.engin.umich.edu/egl/"
-        }
-      ],
       "courses": [
         "EECS 203 - Discrete Mathematics",
         "IOE 265 - Probability and Statistics for Engineers",
