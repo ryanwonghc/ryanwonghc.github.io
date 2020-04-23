@@ -23,7 +23,6 @@ author:
   name:
   twitter:
   picture:
-twitter_username:
 github_username: ryanwonghc
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
@@ -38,10 +37,6 @@ google_analytics: UA-164335162-1
 copyright: "© 2020 Ryan Wong."
 plugins:
   - jekyll-seo-tag
-social:
-  name: Ryan Wong
-  links:
-    - https://www.linkedin.com/in/ryan-wong-hc/
 
 # Build settings
 markdown: kramdown
