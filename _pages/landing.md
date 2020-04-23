@@ -1,5 +1,5 @@
 ---
-# title: ""
+title: "          Hi, I'm Ryan"
 layout: splash
 permalink: /
 date: 2020-04-20T11:48:41-04:00
@@ -17,7 +17,8 @@ header:
   caption: "Photo credit: [**wallpaperaccess**](https://wallpaperaccess.com/lake-tahoe)"
 excerpt: |
     Hi, I'm **Ryan**.
-    <br>____________------
+    <br>
     Welcome to my site!
     <br>
+    ---
 ---
