@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Experiences
 layout: collection
-permalink: /projects/
-collection: projects
+permalink: /experiences/
+collection: experiences
 entries_layout: grid
 ---
 
