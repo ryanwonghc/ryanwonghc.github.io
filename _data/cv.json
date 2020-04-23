@@ -93,7 +93,15 @@
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Chinese - Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Chinese - Cantonese",
       "fluency": "Native speaker"
     }
   ]
