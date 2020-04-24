@@ -41,7 +41,7 @@ plugins:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
