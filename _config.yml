@@ -92,7 +92,7 @@ defaults:
 collections:
   projects:
     output: true
-    permalink: /_projects/
+    permalink: /:collection/:path/
   experiences:
     output: true
-    permalink: /_experiences/
+    permalink: /:collection/:path/
