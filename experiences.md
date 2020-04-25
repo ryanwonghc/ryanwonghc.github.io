@@ -3,7 +3,7 @@ title: Experiences
 layout: collection
 permalink: /experiences/
 collection: experiences
-entries_layout: grid
+entries_layout: list
 sort_order: reverse
 show_excerpts: true
 ---
