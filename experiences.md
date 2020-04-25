@@ -4,6 +4,8 @@ layout: collection
 permalink: /experiences/
 collection: experiences
 entries_layout: grid
+sort_order: reverse
+show_excerpts: true
 ---
 
-Sample document listing for the collection `_recipes`.
+A collection of my extracurricular and internship experiences.

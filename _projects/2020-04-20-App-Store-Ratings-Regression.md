@@ -1,15 +1,13 @@
 ---
 title: "Multiple Linear Regression: App Store Game Ratings"
 layout: post
-excerpt_separator: "<!--more-->"
+excerpt: "Project aims to predict the app store rating of a mobile game using multiple linear regression, considering factors such as game size, genre, and price."
 date: 2020-04-20
 image:
   path: /images/Posts/GameRatingPost.jpg
   thumbnail: /images/Posts/GameRatingPreview.jpg
 read_time: true
 ---
-
-Project aims to predict the app store rating of a mobile game using multiple linear regression, considering factors such as game size, genre, and price.
 
 ## Data Cleaning
 * I used [mobile strategy games dataset](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) from Kaggle to train and test my model. The dataset contained data on 16,847 different games. I performed data cleaning to extract data that I felt would be beneficial to train the model with and eliminate data that I deemed irrelevant to the model. I made the following changes:
