@@ -2,8 +2,10 @@
 title: Projects
 layout: collection
 permalink: /projects/
-collection: recipes
+collection: projects
 entries_layout: grid
+sort_order: reverse
+show_excerpts: true
 ---
 
-Sample document listing for the collection `_recipes`.
+A collection of my technical projects.

@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Contact
 layout: collection
-permalink: /projects/
+permalink: /contact/
 collection: recipes
 entries_layout: grid
 ---
