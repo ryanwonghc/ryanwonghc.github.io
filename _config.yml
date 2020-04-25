@@ -87,3 +87,9 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /_projects/
