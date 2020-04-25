@@ -93,3 +93,6 @@ collections:
   projects:
     output: true
     permalink: /_projects/
+  experiences:
+    output: true
+    permalink: /_experiences/
