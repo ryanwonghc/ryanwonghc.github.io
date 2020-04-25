@@ -1,5 +1,7 @@
 ---
 title: "Multiple Linear Regression: App Store Game Ratings"
+layout: post
+excerpt_separator: "<!--more-->"
 date: 2020-04-20
 image:
   path: /images/Posts/GameRatingPost.jpg
