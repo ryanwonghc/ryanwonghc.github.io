@@ -10,7 +10,7 @@ image:
 read_time: true
 ---
 
-<figure style="width: 1200px" class="align-center">
+<figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Experiences/UMTRIPost.jpg" alt="">
   <figcaption>Final Presentation Poster.</figcaption>
 </figure>
