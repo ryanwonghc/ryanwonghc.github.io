@@ -4,6 +4,7 @@ date: 2020-04-20
 image:
   path: /images/Posts/GameRatingPost.jpg
   thumbnail: /images/Posts/GameRatingPreview.jpg
+read_time: true
 ---
 
 Project aims to predict the app store rating of a mobile game using multiple linear regression, considering factors such as game size, genre, and price.
