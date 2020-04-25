@@ -3,7 +3,7 @@ title: "Techture Limited"
 sub_title: "Event Management Intern"
 excerpt: "I worked for Techture Limited, a Hong Kong based digital marketing firm, to organize and execute a two month long smart city showcase featuring products demonstrating the latest developments in technology in Hong Kong."
 layout: post
-date: 2020-04-20
+date: 2020-04-17
 image:
   #path: /images/Posts/GameRatingPost.jpg
   thumbnail: /images/Experiences/TechturePreview.jpg
