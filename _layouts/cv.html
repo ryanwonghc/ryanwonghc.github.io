@@ -18,7 +18,7 @@ layout: default
     <!--<div>{{ content }}</div>-->
     <div class="container">
       <div>
-        <img class="author-picture" src="{{ cv.basics.picture }}" alt="{{ cv.basics.name }}">
+        <img class="author-picture" src="{{ cv.basics.picture }}" alt="{{ cv.basics.name }}" style="max-width: 300px; margin:50px 0px">
       </div>
       <div>
         {{ cv.basics.summary | markdownify }}
