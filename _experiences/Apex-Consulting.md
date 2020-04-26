@@ -3,7 +3,7 @@ title: "Apex Consulting"
 sub_title: "Head of Recruiting, Project Manager"
 excerpt: "Apex Consulting is an on campus student run organization at the University of Michigan dedicated to providing pro bono consulting services to local Michigan clientele."
 layout: post
-date: 2020-04-18
+date: 2020-04-10
 image:
   path: /images/Design/blank.jpg
   thumbnail: /images/Experiences/ApexPreview.jpg

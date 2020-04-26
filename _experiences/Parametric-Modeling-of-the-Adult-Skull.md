@@ -1,9 +1,9 @@
 ---
-title: "Adaptive Designs for Human Mobility Safety"
+title: "Parametric Modeling of the Adult Skull"
 sub_title: "Data Analyst at the University of Michigan Transportation Research Institute"
 excerpt: "I was part of a research team led by Dr. Jingwen Hu and Dr. Monica Jones. The goal of our research was to evaluate the influence of variations in body geometry on body impact responses in vehicular accidents. My role was to capture and model the variability in the head region in order to generate individualized finite element models used in crash simulation testing."
 layout: post
-date: 2020-04-20
+date: 2020-01-31
 image:
   path: /images/Design/blank.jpg
   thumbnail: /images/Experiences/UMTRIPreview.jpg
