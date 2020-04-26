@@ -10,8 +10,9 @@ layout: default
     <!--<div>{{ content }}</div>-->
     {% include author %}
     {% if author_picture %}
-      <img class="align-left" src="{{ author_picture }}" alt="{{ author_name }}" style="width:300px;">
+      <img class="align-left" src="{{ author_picture }}" alt="{{ author_name }}" style="max-width:100%;height:auto;">
     {% endif %}
+    <br><br>
     <div>
       <div class="entries">
         {% include cv/basics.html %}
