@@ -191,6 +191,7 @@ main {
     grid-gap: 10px;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     grid-template-rows: repeat(auto-fit, 100px);
+    max-width: 50%;
   }
 
   .container > div > img {
