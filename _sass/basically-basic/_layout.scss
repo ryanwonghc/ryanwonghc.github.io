@@ -190,7 +190,7 @@ main {
     max-width: 750px;
     margin-bottom: 50px;
     display: grid;
-    grid-gap: 0.5rem;
+    grid-gap: 50px;
 
     @media (min-width: 0px) {
       grid-template-columns: repeat(1, 1fr);
