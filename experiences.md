@@ -4,7 +4,7 @@ layout: collection
 permalink: /experiences/
 collection: experiences
 entries_layout: grid
-sort_order: reverse
+#sort_order: reverse
 show_excerpts: true
 ---
 
