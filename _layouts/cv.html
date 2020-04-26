@@ -18,13 +18,13 @@ layout: default
     <!--<div>{{ content }}</div>-->
     <div class="container">
       <div>
-        {{ cv.basics.picture }}
+        <img class="author-picture" src="{{ cv.basics.picture }}" alt="{{ cv.basics.name }}">
       </div>
       <div>
         {{ cv.basics.summary | markdownify }}
       </div>
     </div>
-    <br><br>
+    <br><br><br><br>
     <div>
       <div class="entries">
         {% include cv/basics.html %}
