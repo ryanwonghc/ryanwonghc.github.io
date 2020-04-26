@@ -204,6 +204,7 @@ main {
   }
 
   .container > div > img {
+    max-width: 75%;
     max-height: 400px;
     object-fit: cover;
   }
