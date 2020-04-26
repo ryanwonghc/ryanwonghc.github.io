@@ -193,17 +193,19 @@ main {
     margin-bottom: 50px;
     display: grid;
     grid-gap: 10px;
-    /*
+
+    @media (min-width: 0px) {
+      grid-template-columns: repeat(1, 1fr);
+    }
+
     @media (min-width: 600px) {
       grid-template-columns: repeat(2, 1fr);
     }
-    */
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+
   }
 
   .container > div > img {
-    max-width: 300px;
-    height: auto;
+    max-height: 400px;
     object-fit: cover;
   }
 }
