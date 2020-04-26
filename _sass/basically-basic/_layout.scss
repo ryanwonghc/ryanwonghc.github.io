@@ -126,55 +126,14 @@ main {
         }
       }
     }
-    /*
+
     .entry-content {
       @include breakpoint($medium) {
         float: right;
         width: span(11 of 16);
       }
     }
-    */
   }
-
-  /*test*/
-  .entry-wrap {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-
-    @include breakpoint($medium) {
-      -ms-flex-wrap: nowrap;
-      flex-wrap: nowrap;
-    }
-  }
-
-  .entry-content {
-    @include breakpoint($medium) {
-      -ms-flex: 1;
-      flex: 1;
-    }
-  }
-
-  .entry-sidebar {
-    order: -1;
-    -ms-flex-order: -1;
-
-    @include breakpoint($medium) {
-      order: initial;
-      -ms-flex-order: initial;
-    }
-
-    .author-picture {
-      margin: 0 0 2rem;
-      border-radius: 2 * $border-radius;
-
-      @include breakpoint($medium) {
-        margin: 0 0 0 2rem;
-      }
-    }
-  }
-  /*test end*/
 
   .entry {
     a {
