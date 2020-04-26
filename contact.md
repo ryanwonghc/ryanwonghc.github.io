@@ -11,7 +11,7 @@ If you have any questions for me, or would simply like to chat, feel free to rea
     <input
       type="text"
       name="name"
-      style="margin-right: 15px; width: 315px; height: 50px; border: 1px solid gray;"
+      style="margin-right: 15px; width: 330px; height: 50px; border: 1px solid gray;"
       placeholder="NAME:"
       required>
   </label>
@@ -20,7 +20,7 @@ If you have any questions for me, or would simply like to chat, feel free to rea
     <input
       type="text"
       name="email"
-      style="margin-left: 15px; width: 315px; height: 50px; border: 1px solid gray;"
+      style="margin-left: 15px; width: 330px; height: 50px; border: 1px solid gray;"
       placeholder="EMAIL:"
       required>
   </label>
@@ -28,7 +28,7 @@ If you have any questions for me, or would simply like to chat, feel free to rea
   <br><br>
 
   <label>
-    <textarea name="message" rows="5" cols="75" placeholder="MESSAGE:"></textarea>
+    <textarea name="message" rows="5" cols="80" placeholder="MESSAGE:"></textarea>
   </label>
 
   <br><br>
@@ -37,7 +37,7 @@ If you have any questions for me, or would simply like to chat, feel free to rea
 
   <button
     type="submit"
-    style="margin-left: 300px; width: 100px; height: 50px; border: 1px solid gray;">
+    style="margin-left: 315px; width: 100px; height: 50px; border: 1px solid gray;">
     Submit
   </button>
 </form>
