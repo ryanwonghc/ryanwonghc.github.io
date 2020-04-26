@@ -3,8 +3,14 @@ layout: default
 ---
 
 {% assign cv = site.data.cv %}
-<!--
 {% include cv/intro.html %}
+
+<!--
+{% if cv.basics.summary %}
+  <div class="summary">
+    {{ cv.basics.summary | markdownify }}
+  </div>
+{% endif %}
 -->
 
 <main id="main" class="page-content" aria-label="Content">
@@ -12,13 +18,10 @@ layout: default
     <!--<div>{{ content }}</div>-->
     <div class="container">
       <div>
-        {% include author %}
-        {% if author_picture %}
-          <img class="align-left" src="{{ author_picture }}" alt="{{ author_name }}">
-        {% endif %}
+        {{ cv.basics.picture }}
       </div>
       <div>
-        <p>testing</p>
+        {{ cv.basics.summary | markdownify }}
       </div>
     </div>
     <br><br>
