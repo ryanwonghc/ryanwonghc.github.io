@@ -6,6 +6,7 @@ layout: default
 {% include cv/intro.html %}
 
 <main id="main" class="page-content" aria-label="Content">
+ <!-- testing
   <div class="inner">
     <div class="entry-wrap">
       <div class="entry-content">
@@ -19,8 +20,17 @@ layout: default
       </aside>
     </div>
   </div>
+  -->
   <div class="index inner">
-    <div>{{ content }}</div>
+    <div>
+      {{ content }}
+      <aside class="entry-sidebar">
+        {% include author %}
+        {% if author_picture %}
+          <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}">
+        {% endif %}
+      </aside>
+    </div>
     <div>
       <div class="entries">
         {% include cv/basics.html %}

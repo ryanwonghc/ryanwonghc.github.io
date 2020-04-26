@@ -134,6 +134,27 @@ main {
       }
     }
   }
+  
+  /*test*/
+  .entry-sidebar {
+    order: -1;
+    -ms-flex-order: -1;
+
+    @include breakpoint($medium) {
+      order: initial;
+      -ms-flex-order: initial;
+    }
+
+    .author-picture {
+      margin: 0 0 2rem;
+      border-radius: 2 * $border-radius;
+
+      @include breakpoint($medium) {
+        margin: 0 0 0 2rem;
+      }
+    }
+  }
+  /*test end*/
 
   .entry {
     a {
