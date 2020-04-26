@@ -188,9 +188,11 @@ main {
 
   .container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
     display: grid;
-    grid-gap: 1rem;
+    grid-gap: 10px;
     /*
     @media (min-width: 600px) {
       grid-template-columns: repeat(2, 1fr);
