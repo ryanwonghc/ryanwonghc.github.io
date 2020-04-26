@@ -187,11 +187,11 @@ main {
   }
 
   .container {
-    max-width: 900px;
-    margin-left: 1rem;
+    max-width: 750px;
+    margin-left: 1.5rem;
     margin-bottom: 50px;
     display: grid;
-    grid-gap: 2rem;
+    grid-gap: 1.5rem;
 
     @media (min-width: 0px) {
       grid-template-columns: repeat(1, 1fr);
