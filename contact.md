@@ -8,11 +8,20 @@ entries_layout: grid
 
 <form action="https://formspree.io/mwknddww" method="POST">
   <label>
-    Your email:
-    <input type="text" name="_replyto">
+    Your name:
+    <br>
+    <input type="text" name="name">
   </label>
+  <br>
+  <label>
+    Your email:
+    <br>
+    <input type="text" name="email">
+  </label>
+  <br>
   <label>
     Your message:
+    <br>
     <textarea name="message"></textarea>
   </label>
 
