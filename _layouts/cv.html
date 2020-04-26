@@ -3,15 +3,24 @@ layout: default
 ---
 
 {% assign cv = site.data.cv %}
+<!--
 {% include cv/intro.html %}
+-->
 
 <main id="main" class="page-content" aria-label="Content">
   <div class="index inner">
     <!--<div>{{ content }}</div>-->
-    {% include author %}
-    {% if author_picture %}
-      <img class="align-left" src="{{ author_picture }}" alt="{{ author_name }}" style="max-width:100%;height:auto;">
-    {% endif %}
+    <div class="container">
+      <div>
+        {% include author %}
+        {% if author_picture %}
+          <img class="align-left" src="{{ author_picture }}" alt="{{ author_name }}">
+        {% endif %}
+      </div>
+      <div>
+        <p>testing</p>
+      </div>
+    </div>
     <br><br>
     <div>
       <div class="entries">

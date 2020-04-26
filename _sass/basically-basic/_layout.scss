@@ -185,4 +185,11 @@ main {
       display: inline-block;
     }
   }
+
+  .container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(1, 100px);
+  }
 }
