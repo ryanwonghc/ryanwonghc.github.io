@@ -5,7 +5,7 @@ excerpt: "I worked for Techture Limited, a Hong Kong based digital marketing fir
 layout: post
 date: 2020-04-17
 image:
-  #path: /images/Posts/GameRatingPost.jpg
+  path: /images/Design/blank.jpg
   thumbnail: /images/Experiences/TechturePreview.jpg
 read_time: true
 ---

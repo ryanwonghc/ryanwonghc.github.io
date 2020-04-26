@@ -5,7 +5,7 @@ excerpt: "I was part of a research team led by Dr. Jingwen Hu and Dr. Monica Jon
 layout: post
 date: 2020-04-20
 image:
-  #path: /images/Posts/GameRatingPost.jpg
+  path: /images/Design/blank.jpg
   thumbnail: /images/Experiences/UMTRIPreview.jpg
 read_time: true
 ---

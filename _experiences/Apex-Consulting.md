@@ -5,7 +5,7 @@ excerpt: "Apex Consulting is an on campus student run organization at the Univer
 layout: post
 date: 2020-04-18
 image:
-  #path: /images/Posts/GameRatingPost.jpg
+  path: /images/Design/blank.jpg
   thumbnail: /images/Experiences/ApexPreview.jpg
 read_time: true
 ---
