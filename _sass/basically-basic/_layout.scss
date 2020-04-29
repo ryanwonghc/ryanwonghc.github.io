@@ -219,19 +219,24 @@ main {
   }
 
   @font-face {
-    src: url(fonts/SIMPLIFICA-Typeface.ttf);
-    font-family: simp;
+    src: url(fonts/EthRomainEthon.ttf);
+    font-family: romainethon;
+  }
+
+  @font-face {
+    src: url(fonts/EthBlackEthon.ttf);
+    font-family: blackethon;
   }
 
   .paragraph {
     font-size: 50px;
     line-height: 62px;
-    font-family: simp;
+    font-family: romainethon;
   }
 
   .header {
     font-size: 100px;
     line-height: 62px;
-    font-family: simp;
+    font-family: blackethon;
   }
 }
