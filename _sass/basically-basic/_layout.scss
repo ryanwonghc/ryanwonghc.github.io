@@ -223,23 +223,23 @@ main {
 
   @font-face {
     src: url(fonts/EthRomainEthon.ttf);
-    font-family: rom;
+    font-family: fontrom;
   }
 
   @font-face {
     src: url(fonts/EthBlackEthon.ttf);
-    font-family: bla;
+    font-family: fontbla;
   }
 
   .p {
-    font-size: 1em;
-    font-family: rom;
+    font-size: 3em;
+    font-family: fontrom;
     text-align: center;
   }
 
   .h1 {
-    font-size: 3em;
-    font-family: bla;
+    font-size: 6em;
+    font-family: fontbla;
     text-align: center;
   }
 }
