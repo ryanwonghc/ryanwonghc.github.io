@@ -220,23 +220,25 @@ main {
 
   @font-face {
     src: url(fonts/EthRomainEthon.ttf);
-    font-family: romainethon;
+    font-family: rom;
   }
 
   @font-face {
     src: url(fonts/EthBlackEthon.ttf);
-    font-family: blackethon;
+    font-family: bla;
   }
 
-  .paragraph {
+  .p {
     font-size: 50px;
     line-height: 62px;
-    font-family: romainethon;
+    font-family: rom;
+    text-align: center;
   }
 
-  .header {
+  .h1 {
     font-size: 100px;
     line-height: 62px;
-    font-family: blackethon;
+    font-family: bla;
+    text-align: center;
   }
 }
