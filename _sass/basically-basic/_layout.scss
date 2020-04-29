@@ -210,3 +210,28 @@ main {
     object-fit: cover;
   }
 }
+
+.layout--home {
+  .entry-content {
+    @include breakpoint($large) {
+      width: span(14 of 16);
+    }
+  }
+
+  @font-face {
+    src: url(fonts/SIMPLIFICA-Typeface.ttf);
+    font-family: simp;
+  }
+
+  .paragraph {
+    font-size: 50px;
+    line-height: 62px;
+    font-family: simp;
+  }
+
+  .header {
+    font-size: 100px;
+    line-height: 62px;
+    font-family: simp;
+  }
+}
