@@ -212,10 +212,13 @@ main {
 }
 
 .layout--home {
-  .entry-content {
-    @include breakpoint($large) {
-      width: span(14 of 16);
-    }
+  .container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
   }
 
   @font-face {
