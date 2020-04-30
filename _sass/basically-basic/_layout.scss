@@ -222,6 +222,7 @@ main {
     padding-top: 7em;
     align-items: center;
     z-index: 1;
+    background: url(../../images/Design/ryan.jpg) center center cover no-repeat fixed;
   }
 
   .p {
@@ -274,9 +275,5 @@ main {
     justify-content: center;
     align-items: center;
     background: black;
-  }
-
-  body {
-    background-image: url(../../images/Design/ryan.jpg) center center cover no-repeat fixed;
   }
 }
