@@ -221,25 +221,9 @@ main {
     align-items: center;
   }
 
-  @font-face {
-    font-family: ethreg;
-    src: url(fonts/EthRomainEthon.ttf);
-  }
-
-  @font-face {
-    font-family: ethbol;
-    src: url(fonts/EthBlackEthon.ttf);
-  }
-
   .p {
-    font-family: ethreg;
-    font-size: 2em;
+    font-size: 4em;
     text-align: center;
-  }
-
-  .h1 {
-    font-family: ethbol;
-    font-size: 6em;
-    text-align: center;
+    border-bottom: 5px solid white;
   }
 }
