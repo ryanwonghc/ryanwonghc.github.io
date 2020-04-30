@@ -215,7 +215,7 @@ main {
 
   .wrapper {
     max-width: 100%;
-    height: auto;
+    max-height: 10em;
     margin-left: auto;
     margin-right: auto;
     margin-top: 6em;
@@ -233,6 +233,7 @@ main {
 
   .content {
     max-width: 960px;
+    max-height: 10em;
     margin-left: auto;
     margin-right: auto;
     padding-right: 10px;
