@@ -221,6 +221,12 @@ main {
     padding-left: 10px;
     padding-top: 7em;
     align-items: center;
+
+    background: url(assets/images/tahoe.jpg) center center cover no-repeat fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
 
   .p {
@@ -273,13 +279,5 @@ main {
     justify-content: center;
     align-items: center;
     background: black;
-  }
-
-  body {
-    background: url(assets/images/tahoe.jpg) center center cover no-repeat fixed;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
   }
 }
