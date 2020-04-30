@@ -235,7 +235,7 @@ main {
     border-style: solid;
     border-width: 3px;
     border-color: #303841;
-    padding: 12px 16px;
+    padding: 10px 16px;
     font-size: 1.5em;
     color: #303841;
     font-weight: lighter;
@@ -252,12 +252,6 @@ main {
   }
 
   .btncontainer {
-    width: 48%;
-    float: left;
-    padding: 1%;
-  }
-
-  .first {
-    text-align: right;
+    text-align: center;
   }
 }
