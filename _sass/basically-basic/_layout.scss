@@ -213,6 +213,7 @@ main {
 
 .layout--home {
   .wrapper {
+    position: absolute;
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
@@ -242,8 +243,6 @@ main {
     cursor: pointer;
     align-items: center;
     border-radius: 0px;
-    margin-left: 1em;
-    margin-right: 1em;
     margin-bottom: auto;
   }
 
@@ -253,7 +252,7 @@ main {
   }
 
   .btncontainer {
-    max-width: 750px;
+    max-width: 500px;
     margin-bottom: 50px;
     display: grid;
     grid-gap: 25px;
