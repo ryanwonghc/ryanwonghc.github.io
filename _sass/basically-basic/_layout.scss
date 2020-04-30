@@ -212,12 +212,14 @@ main {
 }
 
 .layout--home {
+  
   .backgroundwrapper {
     max-width: 100%;
     max-height: 300px;
     background-color: blue;
-    z-index: -1;
+    z-index: 3;
   }
+
   .wrapper {
     max-width: 960px;
     max-height: 300px;
@@ -228,7 +230,7 @@ main {
     padding-top: 7em;
     align-items: center;
     background-color: black;
-    z-index: 1;
+    z-index: 2;
 
     background-position: center center;
     background-repeat: no-repeat;
