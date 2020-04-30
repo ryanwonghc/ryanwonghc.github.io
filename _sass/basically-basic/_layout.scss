@@ -252,6 +252,12 @@ main {
   }
 
   .btncontainer {
-    text-align: center;
+    width: 48%;
+    float: left;
+    padding: 1%;
+  }
+
+  .first {
+    text-align: right;
   }
 }
