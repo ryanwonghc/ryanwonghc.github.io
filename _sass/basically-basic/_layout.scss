@@ -242,10 +242,16 @@ main {
     cursor: pointer;
     align-items: center;
     border-radius: 0px;
+    margin-left: 1em;
+    margin-right: 1em;
   }
 
   /* Darker background on mouse-over */
   .btn:hover {
     background-color: WhiteSmoke;
+  }
+
+  .btncontainer {
+    text-align: center;
   }
 }
