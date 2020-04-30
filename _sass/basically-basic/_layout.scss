@@ -212,23 +212,20 @@ main {
 }
 
 .layout--home {
-  .container {
-    height: 10em;
-    width: 100%;
-    display: flex;
-    position: fixed;
+  .wrapper {
+    width: 300px;
+    margin: 0 auto;
     align-items: center;
-    justify-content: center;
   }
 
   @font-face {
     font-family: fontrom;
-    src: url(/fonts/EthRomainEthon.ttf) format('truetype');
+    src: url(fonts/EthRomainEthon.ttf) format('truetype');
   }
 
   @font-face {
     font-family: fontbla;
-    src: url(/fonts/EthBlackEthon.ttf) format('truetype');
+    src: url(fonts/EthBlackEthon.ttf) format('truetype');
   }
 
   .p {
