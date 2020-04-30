@@ -276,11 +276,16 @@ main {
     background: black;
   }
 
-  html {
-    background: url(images/Design/tahoe.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  .bg {
+    background-image: url("/images/Design/tahoe.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
   }
 }
