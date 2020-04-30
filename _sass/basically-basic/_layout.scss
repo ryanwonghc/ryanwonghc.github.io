@@ -243,7 +243,6 @@ main {
     cursor: pointer;
     align-items: center;
     border-radius: 0px;
-    margin-bottom: auto;
   }
 
   /* Darker background on mouse-over */
@@ -253,7 +252,7 @@ main {
 
   .btncontainer {
     max-width: 500px;
-    margin-bottom: 50px;
+    margin-bottom: auto;
     display: grid;
     grid-gap: 25px;
 
