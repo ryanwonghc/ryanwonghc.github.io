@@ -220,7 +220,6 @@ main {
     padding-left: 10px;
     padding-top: 7em;
     align-items: center;
-    vertical-align: middle;
   }
 
   .p {
@@ -246,7 +245,6 @@ main {
     margin-left: 1em;
     margin-right: 1em;
     margin-bottom: auto;
-    align-self: center;
   }
 
   /* Darker background on mouse-over */
@@ -272,5 +270,12 @@ main {
       grid-template-columns: repeat(2, 1fr);
       margin-left: 70px;
     }
+  }
+
+  .btncontainerbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
   }
 }
