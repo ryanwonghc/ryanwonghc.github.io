@@ -222,21 +222,23 @@ main {
   }
 
   @font-face {
-    font-family: fontrom;
-    src: url(fonts/EthRomainEthon.ttf) format('truetype');
+    font-family: ethreg;
+    src: url(fonts/EthRomainEthon.ttf);
   }
 
   @font-face {
-    font-family: fontbla;
-    src: url(fonts/EthBlackEthon.ttf) format('truetype');
+    font-family: ethbol;
+    src: url(fonts/EthBlackEthon.ttf);
   }
 
   .p {
+    font-family: ethreg;
     font-size: 2em;
     text-align: center;
   }
 
   .h1 {
+    font-family: ethbol;
     font-size: 6em;
     text-align: center;
   }
