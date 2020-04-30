@@ -233,12 +233,14 @@ main {
   .btn {
     background: none;
     border-style: solid;
-    border-width: 1px;
+    border-width: 3px;
     border-color: #303841;
     padding: 12px 16px;
     font-size: 2em;
+    color: #303841;
     cursor: pointer;
     align-items: center;
+    border-radius: 0px;
   }
 
   /* Darker background on mouse-over */
