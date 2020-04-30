@@ -255,6 +255,7 @@ main {
     margin-bottom: auto;
     display: grid;
     grid-gap: 25px;
+    align-self: center;
 
     @media (min-width: 0px) {
       grid-template-columns: repeat(1, 1fr);
@@ -272,5 +273,13 @@ main {
     justify-content: center;
     align-items: center;
     background: black;
+  }
+
+  .backgroundimg {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
   }
 }
