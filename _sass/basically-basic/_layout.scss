@@ -218,6 +218,7 @@ main {
     margin-right: auto;
     padding-right: 10px;
     padding-left: 10px;
+    padding-top: 10em;
     align-items: center;
     vertical-align: middle;
   }
@@ -244,6 +245,7 @@ main {
     border-radius: 0px;
     margin-left: 1em;
     margin-right: 1em;
+    align-self: center;
   }
 
   /* Darker background on mouse-over */
@@ -252,6 +254,19 @@ main {
   }
 
   .btncontainer {
-    text-align: center;
+    max-width: 750px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-gap: 25px;
+
+    @media (min-width: 0px) {
+      grid-template-columns: repeat(1, 1fr);
+      margin-left: 1.5rem;
+    }
+
+    @media (min-width: 600px) {
+      grid-template-columns: repeat(2, 1fr);
+      margin-left: 70px;
+    }
   }
 }
