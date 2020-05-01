@@ -239,14 +239,8 @@ main {
     text-align: center;
     background-color: white;
 
-    /*border*/
-    border-style: solid;
-    border-width: 3px;
-    border-color: #303841;
-    border-radius: 0px;
-
     /*padding*/
-    padding: 30px;
+    padding: 10px;
   }
 
   .border {
@@ -283,6 +277,17 @@ main {
     color: #303841;
     font-weight: lighter;
     cursor: pointer;
+  }
+
+  a {
+    color: #303841;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.15em;
+
+    display: inline-block;
+    padding: 15px 20px;
+    position: relative;
   }
 
   a:after {
