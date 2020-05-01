@@ -233,8 +233,8 @@ main {
   }
 
   .content {
-    max-width: 600px;
-    max-height: 30vh;
+    max-width: 700px;
+    max-height: 50vh;
     margin-left: auto;
     margin-right: auto;
     padding-right: 10px;
@@ -242,6 +242,7 @@ main {
     align-content: center;
     line-height: 1.6;
     overflow: hidden;
+    text-align: center;
 
     /*border*/
     border-style: solid;
@@ -266,6 +267,8 @@ main {
 
   .btncontainer {
     margin: auto;
+    color: red;
+    display: inline-block;
   }
 
   .btn {
