@@ -281,7 +281,7 @@ main {
     cursor: pointer;
   }
 
-  .btn {
+  .button {
     color: #303841;
     text-transform: uppercase;
     text-decoration: none;
@@ -292,7 +292,7 @@ main {
     position: relative;
   }
 
-  .btn:after {
+  .button:after {
     background: none repeat scroll 0 0 transparent;
     bottom: 0;
     content: "";
@@ -305,7 +305,7 @@ main {
     width: 0;
   }
 
-  .btn:hover:after {
+  .button:hover:after {
     width: 100%;
     left: 0;
   }
