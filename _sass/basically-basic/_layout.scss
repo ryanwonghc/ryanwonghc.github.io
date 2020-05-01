@@ -223,12 +223,13 @@ main {
     padding-left: 10px;
     padding-top: 3em;
     overflow: hidden;
-
+    /*
     background-image: url('../../assets/images/tahoe.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    */
   }
 
   .content {
@@ -238,12 +239,7 @@ main {
     margin-right: auto;
     padding-right: 10px;
     padding-left: 10px;
-    align-items: center;
-  }
-
-  .img {
-    width: 100%;
-    height: auto;
+    align-content: center;
   }
 
   .p {
@@ -278,15 +274,14 @@ main {
     display: grid;
     grid-gap: 25px;
     align-self: center;
+    margin: 0 auto;
 
     @media (min-width: 0px) {
       grid-template-columns: repeat(1, 1fr);
-      margin-left: 1.5rem;
     }
 
     @media (min-width: 600px) {
       grid-template-columns: repeat(2, 1fr);
-      margin-left: 70px;
     }
   }
 
@@ -294,6 +289,5 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: black;
   }
 }
