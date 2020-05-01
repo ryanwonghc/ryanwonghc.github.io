@@ -241,6 +241,7 @@ main {
     padding-left: 10px;
     align-content: center;
     line-height: 1.6;
+    overflow: hidden;
   }
 
   .h1 {
@@ -259,7 +260,7 @@ main {
 
   .btn {
     background: none;
-    align-self: center;
+    text-align: center;
 
     /*border*/
     border-style: solid;
@@ -273,6 +274,8 @@ main {
     font-weight: lighter;
     cursor: pointer;
 
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .btn:hover {
