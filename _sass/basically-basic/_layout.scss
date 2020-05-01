@@ -233,7 +233,7 @@ main {
   }
 
   .content {
-    max-width: 300px;
+    max-width: 450px;
     height: 40vh;
     margin: auto;
     text-align: center;
@@ -244,6 +244,9 @@ main {
     border-width: 3px;
     border-color: #303841;
     border-radius: 0px;
+
+    /*padding*/
+    padding: 30px;
   }
 
   .border {
@@ -271,7 +274,7 @@ main {
     display: inline-block;
   }
 
-  .btn {
+  .button {
     background: none;
     text-align: center;
 
