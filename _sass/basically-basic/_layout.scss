@@ -240,6 +240,7 @@ main {
     padding-right: 10px;
     padding-left: 10px;
     align-content: center;
+    line-height: 1.6;
   }
 
   .h1 {
@@ -250,7 +251,7 @@ main {
   }
 
   .p {
-    font-size: 1em;
+    font-size: 1.2em;
     text-align: center;
     font-weight: lighter;
     color: #303841;
@@ -258,6 +259,7 @@ main {
 
   .btn {
     background: none;
+    align-self: center;
 
     /*border*/
     border-style: solid;
@@ -270,14 +272,12 @@ main {
     color: #303841;
     font-weight: lighter;
     cursor: pointer;
-    align-items: center;
+
   }
 
   .btn:hover {
-    color: FireBrick;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: FireBrick;
+    text-decoration: underline;
+    text-decoration-color: FireBrick;
   }
 
 }
