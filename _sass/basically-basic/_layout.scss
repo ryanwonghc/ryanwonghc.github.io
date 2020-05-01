@@ -233,7 +233,7 @@ main {
   }
 
   .content {
-    max-width: 960px;
+    max-width: 600px;
     max-height: 30vh;
     margin-left: auto;
     margin-right: auto;
@@ -242,6 +242,12 @@ main {
     align-content: center;
     line-height: 1.6;
     overflow: hidden;
+
+    /*border*/
+    border-style: solid;
+    border-width: 3px;
+    border-color: #303841;
+    border-radius: 0px;
   }
 
   .h1 {
@@ -256,6 +262,10 @@ main {
     text-align: center;
     font-weight: lighter;
     color: #303841;
+  }
+
+  .btncontainer {
+    margin: auto;
   }
 
   .btn {
@@ -279,6 +289,7 @@ main {
   }
 
   .btn:hover {
+    color: #303841;
     text-decoration: underline;
     text-decoration-color: FireBrick;
   }
