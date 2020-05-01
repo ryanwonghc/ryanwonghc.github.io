@@ -240,33 +240,47 @@ main {
     padding-right: 10px;
     padding-left: 10px;
     align-content: center;
+    background-color: FireBrick;
+  }
+
+  .h1 {
+    font-size: 4em;
+    text-align: center;
+    font-weight: bold;
+    color: #303841;
   }
 
   .p {
-    font-size: 4em;
+    font-size: 1em;
     text-align: center;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #303841;
+    font-weight: lighter;
+    color: #303841;
   }
 
   .btn {
     background: none;
+    /*
     border-style: solid;
     border-width: 3px;
     border-color: #303841;
+    border-radius: 0px;
+    */
     padding: 10px 16px;
     font-size: 1.5em;
     color: #303841;
     font-weight: lighter;
     cursor: pointer;
     align-items: center;
-    border-radius: 0px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #303841;
   }
 
-  /* Darker background on mouse-over */
   .btn:hover {
-    background-color: WhiteSmoke;
+    color: FireBrick
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: FireBrick;
   }
 
   .btncontainer {
