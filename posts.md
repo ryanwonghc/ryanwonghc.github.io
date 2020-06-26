@@ -1,7 +1,7 @@
 ---
 title: Post Archive
 layout: posts
-collection: projects
+collection: posts
 permalink: /posts/
 entries_layout: list
 ---
