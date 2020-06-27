@@ -10,6 +10,15 @@ layout: default
   </div>
   </div>
 
+  <div class="container">
+    <div>
+      <img src="{{ cv.basics.picture }}" alt="{{ cv.basics.name }}">
+    </div>
+    <div>
+      {{ cv.basics.summary | markdownify }}
+    </div>
+  </div>
+
   <div class="index inner">
     <div>{{ content }}</div>
 
