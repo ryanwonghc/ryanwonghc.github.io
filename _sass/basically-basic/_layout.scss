@@ -259,64 +259,10 @@ main {
     padding-top: 25px;
   }
 
-  .title {
-    max-width: 450px;
-    height: 20vh;
-    margin: auto;
-    text-align: center;
-
-    margin-top: -100px;
-
-    /*padding*/
-    padding: 10px;
-  }
-
-  .titlebackground {
-    max-width: 100%;
-    height: 25vh;
-    margin-bottom: 10vh;
-    padding: auto;
-    background-color: #303841;
-  }
-
   .h1 {
     font-size: 4em;
     text-align: center;
-    color: #FFFFFF;
-  }
-
-  .h2 {
-    overflow: hidden;
-    font-size: 2em;
-    text-align: center;
-    color: #FFFFFF;
-  }
-
-  .h2:before,
-  .h2:after {
-    background-color: #FFFFFF;
-    content: "";
-    display: inline-block;
-    height: 1px;
-    position: relative;
-    vertical-align: middle;
-    width: 50%;
-  }
-
-  .h2:before {
-    right: 0.5em;
-    margin-left: -50%;
-  }
-
-  .h2:after {
-    left: 0.5em;
-    margin-right: -50%;
-  }
-
-  .text {
-    font-size: 1em;
-    text-align: center;
-    color: #FFFFFF;
+    color: #303841;
   }
 
   .btncontainer {
@@ -336,7 +282,7 @@ main {
   }
 
   .button {
-    color: #b22222;
+    color: #303841;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 0.15em;
