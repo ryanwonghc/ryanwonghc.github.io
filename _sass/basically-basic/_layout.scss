@@ -273,8 +273,8 @@ main {
 
   .titlebackground {
     max-width: 100%;
-    height: 30vh;
-    margin-bottom: auto;
+    height: 20vh;
+    margin-bottom: 20vh;
     background-color: #303841;
   }
 
@@ -288,7 +288,7 @@ main {
     overflow: hidden;
     font-size: 2em;
     text-align: center;
-    color: #303841;
+    color: #FFFFFF;
   }
 
   .h2:before,
@@ -310,6 +310,12 @@ main {
   .h2:after {
     left: 0.5em;
     margin-right: -50%;
+  }
+
+  .text {
+    font-size: 1em;
+    text-align: center;
+    color: #FFFFFF;
   }
 
   .btncontainer {
