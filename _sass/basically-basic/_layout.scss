@@ -323,7 +323,7 @@ main {
     margin: auto;
     display: inline-block;
   }
-
+  /*
   .button {
     background: none;
     text-align: center;
@@ -333,7 +333,7 @@ main {
     color: #303841;
     font-weight: lighter;
     cursor: pointer;
-  }
+  }*/
 
   .button {
     color: #303841;
@@ -345,7 +345,7 @@ main {
     padding: 15px 20px;
     position: relative;
   }
-
+  /*
   .button:after {
     background: none repeat scroll 0 0 transparent;
     bottom: 0;
@@ -363,4 +363,6 @@ main {
     width: 100%;
     left: 0;
   }
+  */
+
 }
