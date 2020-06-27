@@ -260,14 +260,20 @@ main {
   }
 
   .h1 {
-    overflow: hidden;
     font-size: 4em;
     text-align: center;
     color: #303841;
   }
 
-  .h1:before,
-  .h1:after {
+  .h2 {
+    overflow: hidden;
+    font-size: 2em;
+    text-align: center;
+    color: #303841;
+  }
+
+  .h2:before,
+  .h2:after {
     background-color: #000;
     content: "";
     display: inline-block;
@@ -277,12 +283,12 @@ main {
     width: 50%;
   }
 
-  .h1:before {
+  .h2:before {
     right: 0.5em;
     margin-left: -50%;
   }
 
-  .h1:after {
+  .h2:after {
     left: 0.5em;
     margin-right: -50%;
   }
