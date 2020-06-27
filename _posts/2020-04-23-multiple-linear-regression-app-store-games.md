@@ -1,8 +1,8 @@
 ---
-title: "Multiple Linear Regression: App Store Game Ratings"
+title: "XD"
 layout: post
 excerpt: "Project aims to predict the app store rating of a mobile game using multiple linear regression, considering factors such as game size, genre, and price."
-date: 2020-04-20
+date: 2020-04-23
 image:
   path: /images/Posts/GameRatingPost.jpg
 read_time: true
