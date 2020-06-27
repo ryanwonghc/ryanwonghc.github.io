@@ -223,13 +223,13 @@ main {
     padding-left: 10px;
     padding-top: 3em;
     overflow: hidden;
-    /*
+
     background-image: url('../../assets/images/tahoe.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    */
+    
   }
 
   .content {
@@ -237,7 +237,7 @@ main {
     height: 40vh;
     margin: auto;
     text-align: center;
-    /*background-color: white;*/
+    background-color: white;
 
     /*padding*/
     padding: 10px;
@@ -257,6 +257,16 @@ main {
     border-radius: 0px;
 
     padding-top: 25px;
+  }
+
+  .title {
+    max-width: 450px;
+    height: 20vh;
+    margin: auto;
+    text-align: center;
+
+    /*padding*/
+    padding: 10px;
   }
 
   .h1 {
