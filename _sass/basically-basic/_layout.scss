@@ -271,10 +271,17 @@ main {
     padding: 10px;
   }
 
+  .titlebackground {
+    max-width: 100%;
+    height: 30px;
+    margin-bottom: auto;
+    background-color: #303841;
+  }
+
   .h1 {
     font-size: 4em;
     text-align: center;
-    color: #303841;
+    color: #FFFFFF;
   }
 
   .h2 {
