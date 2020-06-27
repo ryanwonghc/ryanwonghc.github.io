@@ -1,5 +1,5 @@
 ---
-title: Post Archive
+title: Posts
 layout: posts
 collection: posts
 permalink: /posts/
