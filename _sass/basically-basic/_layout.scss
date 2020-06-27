@@ -260,22 +260,31 @@ main {
   }
 
   .h1 {
+    overflow: hidden;
     font-size: 4em;
     text-align: center;
     color: #303841;
   }
 
-  h2 {
-   width: 100%;
-   text-align: center;
-   border-bottom: 1px solid #000;
-   line-height: 0.1em;
-   margin: 10px 0 20px;
+  .h1:before,
+  .h1:after {
+    background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
   }
 
-  h2 span {
-    background:#fff;
-    padding:0 10px;
+  .h1:before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+
+  .h1:after {
+    left: 0.5em;
+    margin-right: -50%;
   }
 
   .btncontainer {
