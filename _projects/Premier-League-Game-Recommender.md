@@ -80,12 +80,10 @@ A statistically significant portion of games in the "Best Games" set ...
 #### Hypothesis 1
 A statistically significant portion of games in the "Best Games" set involve popular/successful teams
 To test this hypothesis, I first calculated the frequency at which each team appeared in the set of "Best Games". I then charted the data in a bar chart, shown below:
-
-![Fig1](image.jpg){: .align-center}
-
 <p align="center">
   <img src="/images/Posts/PL_images/fig1.png"/>
 </p>
+
 From the chart above, it seems as though the more popular/successful teams appear in the "best games" set more often, confirming my hypothesis. The three teams with the highest count - Manchester United, Arsenal, and Liverpool - are three of most successful teams in Premier League history. I believe that this makes sense for the following reasons:
 1. More successful teams tend to play in more high-stake games (games that have a large impact on the outcome of that year's premier league title race).
 2. More successful teams tend to have higher viewership numbers for their games (more neutrals/rivals watch their games, and they usually have larger fanbases) and thus their games are more likely to remain in the collective memories of football fans for longer.
@@ -145,6 +143,7 @@ Football has traditionally been a low scoring game, especially in comparison to 
 </p>
 
 Statistics:
+
 |   | 0  | 1  |  2 | 3  | 4  | 5  | 6  |  7 |  8 | 9  | 10  |  11 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Best Games  | 2  |  5 |  1 |  10 | 7  |  21 | 8  | 11  | 11  |  5 | 4  | 1  |
@@ -168,6 +167,7 @@ Close games keep fans on the edge of their seats, and it can be more fun to see 
 </p>
 
 Statistics:
+
 |   | 0  | 1  |  2 | 3  | 4  | 5  | 6  |  7 |  8 |
 |---|---|---|---|---|---|---|---|---|---|
 | Best Games  | 18  |  41 |  11 |  6 | 1  |  5 | 1  | 1  | 2  |
@@ -187,6 +187,7 @@ To test this hypothesis, I assigned each month a number from 0 (August) to 9 (Ma
 </p>
 
 Statistics:
+
 |   | 0  | 1  |  2 | 3  | 4  | 5  | 6  |  7 |  8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Best Games  | 4  |  13 |  12 |  10 | 6  |  3 | 8  | 4  | 10  | 16 |
@@ -274,6 +275,7 @@ From the scores and the confusion matrix, we see that this model has a high prec
 
 #### List of Recommendations and Observations
 The following are the games that were not initially in the "Best Games" set but were predicted to be a memorable game.
+
 Date       | HomeTeam          | AwayTeam          | FTHG | FTAG | FTR | HTHG | HTAG | HTR | Season  | DateTime | Popularity Score | Rival Game | Comeback | Total Goals | Goal Difference | Month | Predicted |
 | ---- | --------- | ---------- | ----------------- | ----------------- | ---- | ---- | --- | ---- | ---- | --- | ------- | -------- | ---------------- | ---------- | -------- | ----------- | --------------- | ----- | --------- |
 | 3660 | 0         | 1/2/05     | Arsenal           | Manchester United | 2    | 4    | \-1 | 2    | 1    | 1   | 2004-05 | 2/1/05   | 1.90175277       | 1          | 1        | 6           | 2               | 6     | 1         |
@@ -285,6 +287,7 @@ Date       | HomeTeam          | AwayTeam          | FTHG | FTAG | FTR | HTHG | 
 Looking at these games, it seems that one common factor amongst them is the high-scoring nature of these games (at least 6 total goals score, which is very rare for football). The popularity scores for these teams are also relatively high- the range of scores is (0,2), and each of these games have popularity scores of at least 1.63.
 
 The final list of games predicted to be a memorable game are as follows:
+
 | Date       | HomeTeam          | AwayTeam          |
 | ---------- | ----------------- | ----------------- |
 | 23/10/1999 | Chelsea           | Arsenal           |
