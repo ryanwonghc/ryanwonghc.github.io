@@ -275,7 +275,7 @@ From the scores and the confusion matrix, we see that this model has a high prec
 
 #### List of Recommendations and Observations
 The following are the games that were not initially in the "Best Games" set but were predicted to be a memorable game.
-
+<div class="table-wrapper" markdown="block">
 Date       | HomeTeam          | AwayTeam          | FTHG | FTAG | FTR | HTHG | HTAG | HTR | Season  | DateTime | Popularity Score | Rival Game | Comeback | Total Goals | Goal Difference | Month | Predicted |
 | ---- | --------- | ---------- | ----------------- | ----------------- | ---- | ---- | --- | ---- | ---- | --- | ------- | -------- | ---------------- | ---------- | -------- | ----------- | --------------- | ----- | --------- |
 | 3660 | 0         | 1/2/05     | Arsenal           | Manchester United | 2    | 4    | \-1 | 2    | 1    | 1   | 2004-05 | 2/1/05   | 1.90175277       | 1          | 1        | 6           | 2               | 6     | 1         |
@@ -283,6 +283,7 @@ Date       | HomeTeam          | AwayTeam          | FTHG | FTAG | FTR | HTHG | 
 | 6336 | 0         | 26/02/2012 | Arsenal           | Tottenham Hotspur | 5    | 2    | 1   | 2    | 2    | 0   | 2011-12 | 2/26/12  | 1.63745387       | 1          | 0        | 7           | 3               | 6     | 1         |
 | 6569 | 0         | 17/11/2012 | Arsenal           | Tottenham Hotspur | 5    | 2    | 1   | 3    | 1    | 1   | 2012-13 | 11/17/12 | 1.63745387       | 1          | 0        | 7           | 3               | 3     | 1         |
 | 7987 | 0         | 14/08/2016 | Arsenal           | Liverpool         | 3    | 4    | \-1 | 1    | 1    | 0   | 2016-17 | 8/14/16  | 1.75461255       | 0          | 0        | 7           | 1               | 0     | 1         |
+</div>
 
 Looking at these games, it seems that one common factor amongst them is the high-scoring nature of these games (at least 6 total goals score, which is very rare for football). The popularity scores for these teams are also relatively high- the range of scores is (0,2), and each of these games have popularity scores of at least 1.63.
 
