@@ -47,7 +47,7 @@ This file contains a list of all known Premier League rivalries. This is importa
 This file contains a list of the total Premier League points accumulated by each Premier League team since the inception of the Premier League. This is important because I used points accumulated as a metric to measure team success/popularity, then explored whether or not team popularity/success contributes to making a match memorable. I obtained this data by scraping [this](https://en.wikipedia.org/wiki/Premier_League_records_and_statistics) wikipedia page. The relevant code is in the ["total_points_scraper.py"](https://github.com/ryanwonghc/Premier-League-Game-Recommender/blob/master/total_points_scraper.py) file.
 
 ## Data Cleaning
-In order to
+In order to perform prepare the data for analysis, I performed the following steps:
 
 1. Drop Data Prior to '95 - '96 Season
 Data was incomplete prior to this season, so I could not use earlier data. Thus I removed the data from the dataset.
@@ -81,10 +81,10 @@ A statistically significant portion of games in the "Best Games" set ...
 A statistically significant portion of games in the "Best Games" set involve popular/successful teams
 To test this hypothesis, I first calculated the frequency at which each team appeared in the set of "Best Games". I then charted the data in a bar chart, shown below:
 
-![Fig1](/PL_images/fig1.png)
+![Fig1](image.jpg){: .align-center}
 
 <p align="center">
-  <img src="/PL_images/fig1.png"/>
+  <img src="/images/Posts/PL_images/fig1.png"/>
 </p>
 From the chart above, it seems as though the more popular/successful teams appear in the "best games" set more often, confirming my hypothesis. The three teams with the highest count - Manchester United, Arsenal, and Liverpool - are three of most successful teams in Premier League history. I believe that this makes sense for the following reasons:
 1. More successful teams tend to play in more high-stake games (games that have a large impact on the outcome of that year's premier league title race).
@@ -96,7 +96,7 @@ To quantify the "popularity" or "successfulness" of the teams in each game, I ga
 
 Charting the popularity scores for each game in the "Best Games" set versus the rest of the games, I found that the median popularity score for games in the "Best Games" set is much higher than games not in the set, proving that memorable games involve successful/popular teams more often than not. The chart is shown below:
 <p align="center">
-  <img src="/PL_images/fig2.png"/>
+  <img src="/images/Posts/PL_images/fig2.png"/>
 </p>
 
 **Verdict: Correct**
@@ -105,7 +105,7 @@ Charting the popularity scores for each game in the "Best Games" set versus the 
 A statistically significant portion of games in the "Best Games" set are games played between rivals
 Using collected data on a list of Premier League rivalries, I used pie charts to show the ratio of rival games to non-rival games in both the "Best Games" set and the rest of the games. The charts are shown below:
 <p align="center">
-  <img src="/PL_images/fig3.png"/>
+  <img src="/images/Posts/PL_images/fig3.png"/>
 </p>
 Statistics:
 - Number of rival games in best games set:  26
@@ -125,7 +125,7 @@ I defined a comeback a game in which the team losing at half time wins the game,
 
 I again used pie charts to show the ratio of comeback to non-comeback games in both the "Best Games" set and the rest of the games. The charts are shown below:
 <p align="center">
-  <img src="/PL_images/fig4.png"/>
+  <img src="/images/Posts/PL_images/fig4.png"/>
 </p>
 Statistics:
 - Number of comeback games in best games set:  18
@@ -141,7 +141,7 @@ As shown in the chart above, comeback wins do appear in the "Best games" set at 
 A statistically significant portion of games in the "Best Games" set are high scoring games
 Football has traditionally been a low scoring game, especially in comparison to other popular sports such as basketball. As a result, high scoring games are often more memorable to fans. In order to test this hypothesis, I summed up the total number of goals for each game and charted this information for the "Best Games" set as well as the rest of the data in bar charts, shown below:
 <p align="center">
-  <img src="/PL_images/fig5.png"/>
+  <img src="/images/Posts/PL_images/fig5.png"/>
 </p>
 
 Statistics:
@@ -164,7 +164,7 @@ From the charts above, we can come to several conclusions:
 A statistically significant portion of games in the "Best Games" set are close games
 Close games keep fans on the edge of their seats, and it can be more fun to see your favorite team come out on top after a close game as opposed to a one-sided game. In order to test this hypothesis, I calculated the goal difference of each game (goals scored by winner - goals scored by loser). Drawn games have a goal difference of 0. I then charted this information for the "Best Games" set as well as the rest of the data in bar charts, shown below:
 <p align="center">
-  <img src="/PL_images/fig6.png"/>
+  <img src="/images/Posts/PL_images/fig6.png"/>
 </p>
 
 Statistics:
@@ -183,7 +183,7 @@ Some Premier League games matter more than others. Games played towards the end 
 
 To test this hypothesis, I assigned each month a number from 0 (August) to 9 (May), as Premier league seasons are played from August to May. I then charted the number of games played in each month. The results are as follows:
 <p align="center">
-  <img src="/PL_images/fig7.png"/>
+  <img src="/images/Posts/PL_images/fig7.png"/>
 </p>
 
 Statistics:
@@ -210,7 +210,7 @@ The metric I used to evaluate the models was the F1 score, which weighs precisio
 To minimize overfitting and training time, I only trained the model with features that correlate the most with the dependent variable. To do so, I decided to plot a correlation heatmap and take the 5 most highly correlated features.
 
 <p align="center">
-  <img src="/PL_images/corrmat.png"/>
+  <img src="/images/Posts/PL_images/corrmat.png"/>
 </p>
 
 According to the heatmap, the top five features are:
@@ -267,7 +267,7 @@ Precision score: 0.8148148148148148
 Additionally, the confusion matrix is as follows:
 
 <p align="center">
-  <img src="/PL_images/conmat.png"/>
+  <img src="/images/Posts/PL_images/conmat.png"/>
 </p>
 
 From the scores and the confusion matrix, we see that this model has a high precision and a low recall. This is surprising as it was the other way around previously (when deciding which model to choose). I think this was due to the hyperparameter tuning limiting the maximum depth of the decision tree, preventing overfitting. Overall, I think this model performed quite well; it is very precise, meaning that I do not have to waste my time watching boring games. While it was unable to correctly classify a majority of the minority class, I am not too concerned as the main objective of this project is to find any games worthy of watching- the number of games found does not matter too much (unless I finish watching all the recommended games and run out of games to watch).
