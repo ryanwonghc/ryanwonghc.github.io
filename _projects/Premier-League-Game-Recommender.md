@@ -1,7 +1,7 @@
 ---
 title: "Premier League Game Recommender"
 layout: post
-excerpt: "Project aims to classify whether or not a Premier League game is memorable/worth watching and generate a list of recommended Premier League games to watch."
+excerpt: "Project aims to explore what factors makes a Premier League game is memorable/worth watching and generate a list of recommended Premier League games to watch."
 date: 2020-07-14
 image:
   path: /images/Posts/PLPost.jpg
