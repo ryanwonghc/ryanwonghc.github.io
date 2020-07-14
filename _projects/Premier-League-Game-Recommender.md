@@ -80,6 +80,9 @@ A statistically significant portion of games in the "Best Games" set ...
 #### Hypothesis 1
 A statistically significant portion of games in the "Best Games" set involve popular/successful teams
 To test this hypothesis, I first calculated the frequency at which each team appeared in the set of "Best Games". I then charted the data in a bar chart, shown below:
+
+![Fig1](/PL_images/fig1.png)
+
 <p align="center">
   <img src="/PL_images/fig1.png"/>
 </p>
